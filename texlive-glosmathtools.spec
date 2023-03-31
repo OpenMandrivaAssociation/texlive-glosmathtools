@@ -1,6 +1,6 @@
 Name:		texlive-glosmathtools
 Version:	55920
-Release:	1
+Release:	2
 Summary:	Mathematical nomenclature tools based on the glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glosmathtools
