@@ -3,7 +3,7 @@ Version:	55920
 Release:	2
 Summary:	Mathematical nomenclature tools based on the glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glosmathtools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glosmathtools
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glosmathtools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glosmathtools.doc.r%{version}.tar.xz
